@@ -8,6 +8,6 @@ public class vinesh{
  {
     vinesh vin;
       vin.a=10;
-      cout<< vin;
+      cout<< "hello gitgit";
    }
    
