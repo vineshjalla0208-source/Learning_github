@@ -1,0 +1,13 @@
+#include <iostream>
+
+public class vinesh{
+ int a;
+ int b;
+ }
+ void main ()
+ {
+    vinesh vin;
+      vin.a=10;
+      cout<< vin;
+   }
+   
